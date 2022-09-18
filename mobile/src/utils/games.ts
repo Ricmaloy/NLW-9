@@ -34,5 +34,5 @@ export const GAMES = [
     name: 'World of Warcraft',
     ads: '2',
     cover: require('../assets/games/game-6.png')
-  },
+  }
 ];
