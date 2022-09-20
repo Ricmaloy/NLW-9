@@ -2049,6 +2049,11 @@ json5@^2.2.1:
     array-includes "^3.1.5"
     object.assign "^4.1.3"
 
+keen-slider@^6.8.2:
+  version "6.8.2"
+  resolved "https://registry.yarnpkg.com/keen-slider/-/keen-slider-6.8.2.tgz#be03e2225cde2a829df53e71c15caed66fbbe82a"
+  integrity sha512-vMVLPVfgTkLTNseKM42hnOJz/k/C4x4atCJqKRmPh2Mb4L/+Pzh4qvq9k6qT7/pKBxnsNxOlcxq80NoZq/N3Iw==
+
 levn@^0.4.1:
   version "0.4.1"
   resolved "https://registry.yarnpkg.com/levn/-/levn-0.4.1.tgz#ae4562c007473b932a6200d403268dd2fffc6ade"
@@ -2850,6 +2855,11 @@ supports-preserve-symlinks-flag@^1.0.0:
   version "1.0.0"
   resolved "https://registry.yarnpkg.com/supports-preserve-symlinks-flag/-/supports-preserve-symlinks-flag-1.0.0.tgz#6eda4bd344a3c94aea376d4cc31bc77311039e09"
   integrity sha512-ot0WnXS9fgdkgIcePe6RHNk1WA8+muPa6cSjeR3V8K27q9BB1rTE3R1p7Hv0z1ZyAc8s6Vvv8DIyWf681MAt0w==
+
+tailwind-scrollbar@^2.0.1:
+  version "2.0.1"
+  resolved "https://registry.yarnpkg.com/tailwind-scrollbar/-/tailwind-scrollbar-2.0.1.tgz#f08721173d513f1406a44601640b79726e3f9728"
+  integrity sha512-OcR7qHBbux4k+k6bWqnEQFYFooLK/F4dhkBz6nvswIoaA9ancZ5h20e0tyV7ifSWLDCUBtpG+1NHRA8HMRH/wg==
 
 tailwindcss@^3.1.8:
   version "3.1.8"
